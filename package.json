@@ -1,0 +1,11 @@
+{
+  "name": "lazy-prop",
+  "version": "0.1.0",
+  "main": "lazy-prop.js",
+  "scripts": {
+    "prepublish": "coffee -c lazy-prop.coffee",
+    "test": "mocha"
+  },
+  "author": "Nadav IvgI",
+  "license": "BSD-2-Clause"
+}
