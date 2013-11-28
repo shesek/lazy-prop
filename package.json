@@ -7,5 +7,6 @@
     "test": "mocha"
   },
   "author": "Nadav IvgI",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "publishConfig":{"registry":"https://registry.npmjs.org/"}
 }
